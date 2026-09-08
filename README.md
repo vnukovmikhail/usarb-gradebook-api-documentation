@@ -1,1 +1,1 @@
-# usarb-gradebook-api-documentation
+# USARB Gradebook API - Documentation
